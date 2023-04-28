@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Passions+Conflict&display=swap');
+body{
+    background-image: url(background-img/logo-background.png);
+    background-repeat: no-repeat;
+    background-size: 1498px 880px;
+}
+.box{
+    background: rgba(56, 29, 53, 0.303);
+    width: 1339px;
+    height: 692px;
+    padding-left: 10px;
+    padding-top: 3px;
+    margin-left: -9px;
+    margin-top: -9px;
+}
+h1{
+    color: #ffffff;
+}
+h2{
+    color: #ffffff;
+    font-size: xx-large;
+}
+a{
+    text-decoration: none;
+    color: #b97cf1;
+}
+span{
+    color: #b97cf1;
+}

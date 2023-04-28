@@ -1,0 +1,53 @@
+1)Hero title: This should be a catchy and attention-grabbing headline that represents the school and captures the essence of what it offers.
+
+2)Tagline: This should be a short phrase that summarizes the school's mission or values and helps to further distinguish it from other schools.
+
+3)Call to action button: This should be a prominent button on the homepage that invites visitors to take a specific action, such as "Apply Now" 
+or "Request More Information."
+
+4)Features section: This should highlight the standout features and benefits of the school, such as academic programs, extracurricular activities, 
+facilities, and resources.
+
+5)Details about the school: This should provide more in-depth information about the school, including its history, values, and community. 
+It could also include information about the faculty and staff, admissions requirements, and any other relevant details.
+
+Overall, the website should be user-friendly and visually appealing, with clear navigation and easy-to-find information. 
+It should also be mobile-responsive, as many people access websites on their phones and tablets.
+
+Exemples:
+
+1)Hero title: "Welcome to blackwood High School - Where Every Student Thrives"
+
+2)Tagline: "Achieve Your Full Potential with Us"
+
+3)Call to action button: "Register/login"
+
+4)Features section:
+
+"Academic excellence: At blackwood High School, we are committed to providing a rigorous and well-rounded education that prepares our students 
+for success in college and beyond. Our highly qualified teachers and state-of-the-art facilities ensure that our students have the tools they 
+need to succeed."
+
+"Extracurricular activities: In addition to our strong academic programs, we offer a wide range of extracurricular activities to help our 
+students develop their interests and skills. From sports teams to clubs and organizations, there is something for everyone at blackwood High School."
+
+"Supportive community: Our school is more than just a place to learn - it's a place to belong. We pride ourselves on creating a welcoming 
+and inclusive environment where every student feels valued and supported."
+
+5)Details about the school:
+
+"History: blackwood High School was founded --(in) (fina n7ot terikh eza bedkon)-- with the mission of providing a top-quality education to 
+students in our community. Since then, we have grown to become one of the leading high schools in the region, consistently ranking among the 
+top in state and national rankings."
+
+"Values: At blackwood High School, we believe in the importance of hard work, integrity, and kindness. These values guide everything we do, 
+from the way we teach our students to the way we interact with each other and our community."
+
+"Faculty and staff: Our faculty and staff are dedicated professionals who are committed to helping our students succeed. With years of experience 
+and a passion for teaching, they are an integral part of our school community."
+
+"Admissions: If you are interested in applying to blackwood High School, we encourage you to visit our admissions page to learn more about our 
+requirements and process. We welcome students from all backgrounds and are committed to creating a diverse and inclusive community."
+
+
+

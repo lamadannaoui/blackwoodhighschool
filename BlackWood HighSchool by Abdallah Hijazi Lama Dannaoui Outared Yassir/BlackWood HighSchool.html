@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+    <!--this site was made and written by:
+        Abdallah Imad Hijazi: abdallah.hijazi@isae.edu.lb  NoDossier(2313 t)  centre(Tripoli) 
+        
+        Lama Jameleddine dannaoui: Lama.dannaoui@isae.edu.lb  NoDossier(2143 t)  centre(Tripoli) 
+    
+        Outared Radwan Yassir: outared.yassir@isae.edu.lb  NoDossier(2149 t)  centre(Tripoli)-->
+    <head>
+        <title>BlackWood highschool</title>
+    </head>
+    <header>
+        <nav>
+            <img src="logo/logo.png">
+            <h1>Welcome to BlackWood HighSchool<br>Where every Student Thrives</h1>
+            <div class="box" style="margin-left: -10px;">
+                <div class="container">
+                    <a href="Login.html"><button class="btn1">Login</button></a>
+                    <a href="Register.html"><button class="btn2">Register</button></a>
+                </div>
+                <div class="container" style="margin-top: 20px; margin-left: 75px;">
+                    <a href="contact us.html"><button class="btn3">Contact Us</button></a>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <body>
+        <main>
+            <p>
+                At <span>Blackwood High School</span>, we are committed to providing a rigorous and well-rounded education that prepares our students 
+for success in college and beyond. Our highly qualified teachers and state-of-the-art facilities ensure that our students have the tools they 
+need to succeed.
+
+            </p>
+            <img src="images/school-2.jpeg">
+        </main>
+        <div class="description">
+            <div class="act">
+                <div class="pic">
+                    <img src="images/lacros.jpeg" style="margin-left: 30px; border-top-left-radius: 15px; border-bottom-left-radius: 15px;">
+                    <img src="images/soccer.jpeg" style="border-top-right-radius: 15px; border-bottom-right-radius: 15px;">
+                </div>
+                <div class="shape">
+                    <div class="triangle"></div>
+                    <div class="rectangle">
+                        <div class="textbox"><span style="font-size: 40px;">Extracurricular activities:</span><br>
+                            In addition to our strong academic programs, we offer a wide range of extracurricular activities to help our students develop their interests and skills. From sports teams to clubs and organizations, there is something for everyone at blackwood High School.
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="ad-staff">
+                <div class="shape2">
+                    <div class="rectangle2">
+                        <div class="textbox2"><span style="font-size: 40px;">Administor & Staff:</span><br>
+                            school is the journey of a lifetime, it is stages in which all children go through. it prepares the second home, the teacher, and the educator, enriches their skills, highlights their talents, and guides them to the right path.
+                        </div>
+                    </div>
+                    <div class="triangle2"></div>
+                </div>
+                <div class="pic2">
+                    <img src="images/ad-staff.jpg" style="margin-left: 30px; border-top-left-radius: 15px; border-bottom-left-radius: 15px; border-top-right-radius: 15px; border-bottom-right-radius: 15px;">
+                </div>
+            </div>
+            <div class="slider">
+                <div class="slides">
+                    <div class="imgnumber">1 / 6</div>
+                    <img src="images/library.jpeg" style="width:100%">
+                </div>
+                <div class="slides">
+                    <div class="imgnumber">2 / 6</div>
+                    <img src="images/study hall.jpeg" style="width:100%">
+                </div>
+                <div class="slides">
+                    <div class="imgnumber">3 / 6</div>
+                    <img src="images/theater.jpg" style="width:100%">
+                </div>
+                <div class="slides">
+                    <div class="imgnumber">4 / 6</div>
+                    <img src="images/cafeteria.jpeg" style="width:100%">
+                </div>
+                <div class="slides">
+                    <div class="imgnumber">5 / 6</div>
+                    <img src="images/dinnig hall.jpeg" style="width:100%">
+                </div>
+                <div class="slides">
+                    <div class="imgnumber">6 / 6</div>
+                    <img src="images/pool.jpeg" style="width:100%">
+                </div>
+                <a class="prev" onclick="plusSlides(-1)">❮</a>
+                <a class="next" onclick="plusSlides(1)">❯</a>
+            </div>
+            <br>
+
+            <div style="text-align:center">
+                <span class="dot" onclick="currentSlide(1)"></span> 
+                <span class="dot" onclick="currentSlide(2)"></span> 
+                <span class="dot" onclick="currentSlide(3)"></span> 
+                <span class="dot" onclick="currentSlide(4)"></span> 
+                <span class="dot" onclick="currentSlide(5)"></span> 
+                <span class="dot" onclick="currentSlide(6)"></span> 
+            </div>
+            
+            <div class="end">
+                <div class="supp">
+                    <h1>Supportive community:</h1>
+                    <p>Our school is more than just a place to learn - it's a place to belong. We pride ourselves on creating a welcoming and inclusive environment where every student feels valued and supported.</p>
+                </div>
+                <div class="container" style="margin-top: 150px; margin-right: 75px;">
+                    <a href="more.html"><button class="btn3">More about us</button></a>
+                </div>
+            </div>
+        </div>
+    </body>
+    <footer>
+        <div class="foot">
+            <pre>this site was made and written by:
+                
+Abdallah Imad Hijazi: abdallah.hijazi@isae.edu.lb  NoDossier(2313 t)  centre(Tripoli) 
+                
+Lama Jameleddine dannaoui: Lama.dannaoui@isae.edu.lb  NoDossier(2143 t)  centre(Tripoli) 
+            
+Outared Radwan Yassir: outared.yassir@isae.edu.lb  NoDossier(2149 t)  centre(Tripoli)</pre>
+        </div>
+    </footer>
+    <link rel="stylesheet" href="main.css">
+    <script>
+        let slideIndex = 1;
+        showSlides(slideIndex);
+        
+        function plusSlides(n) {
+          showSlides(slideIndex += n);
+        }
+        
+        function currentSlide(n) {
+          showSlides(slideIndex = n);
+        }
+        
+        function showSlides(n) {
+          let i;
+          let slides = document.getElementsByClassName("slides");
+          let dots = document.getElementsByClassName("dot");
+          if (n > slides.length) {slideIndex = 1}    
+          if (n < 1) {slideIndex = slides.length}
+          for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";  
+          }
+          for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+          }
+          slides[slideIndex-1].style.display = "block";  
+          dots[slideIndex-1].className += " active";
+        }
+        </script>
+</html>
